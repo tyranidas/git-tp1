@@ -11,5 +11,3 @@
 
 * **Commitez** le projet en local avec le message suivant : **Première version**
 * **Publiez** vos modifications sur GitHub
-
-## Présentez-vous
