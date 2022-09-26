@@ -3,7 +3,7 @@
 ## Etapes du TP
 
 * **Créez votre compte GiHub** si ce n'est pas déjà fait
-* **Forkez** le projet **git-tp1** (bouton Fork présent en haut à droite de votre espace GitHub repositories)
+* **Forkez** le projet **git-tp1** (bouton Fork présent en haut à droite lorsque vous accédez à un repository d'un autre compte)
 * **Clonez** le projet
 * **Modifiez** le fichier **README.md** avec pour but de reproduire l'exemple suivant : 
 
