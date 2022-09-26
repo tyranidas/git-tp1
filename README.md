@@ -5,7 +5,7 @@
 * **Créez votre compte GiHub** si ce n'est pas déjà fait
 * **Forkez** le projet **git-tp1**
 * **Clonez** le projet
-* **Modifiez** le fichier **README.md** en reproduisant l'exemple suivant : 
+* **Modifiez** le fichier **README.md** avec pour but de reproduire l'exemple suivant : 
 
 <kbd>![alt text](https://github.com/DiginamicFormation/git-tp1/blob/main/resources/Template.png)</kbd>
 
