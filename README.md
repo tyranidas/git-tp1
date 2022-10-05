@@ -10,4 +10,4 @@ Les caractéristiques du Langage Java :
 
 ## Documentation
 
-Lien vers la [font color=#FF0000]documentation officielle[/font]: [Documentation](http://google.fr)
+Lien vers la <span style="color:red">documentation officielle</span>[Documentation](http://google.fr)
